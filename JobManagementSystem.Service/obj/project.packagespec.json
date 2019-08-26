@@ -1,0 +1,66 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Service/JobManagementSystem.Service.csproj",
+    "projectName": "JobManagementSystem.Service",
+    "projectPath": "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Service/JobManagementSystem.Service.csproj",
+    "outputPath": "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Service/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.DataAccess/JobManagementSystem.DataAccess.csproj": {
+            "projectPath": "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.DataAccess/JobManagementSystem.DataAccess.csproj"
+          },
+          "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.DataModel/JobManagementSystem.DataModel.csproj": {
+            "projectPath": "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.DataModel/JobManagementSystem.DataModel.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+          "target": "Package",
+          "version": "[7.0.0, )"
+        },
+        "MailKit": {
+          "target": "Package",
+          "version": "[2.3.0, )"
+        },
+        "Microsoft.AspNetCore.Http": {
+          "target": "Package",
+          "version": "[2.2.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Serilog": {
+          "target": "Package",
+          "version": "[2.8.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

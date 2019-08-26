@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+            
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="Login">
+        <value>Đăng nhập</value>
+    </data>
+    <data name="Register">
+        <value>Register</value>
+    </data>
+    <data name="CreateJob">
+        <value>Add new job</value>
+    </data>
+    <data name="JobManagement">
+        <value>Job Management</value>
+    </data>
+    <data name="Contact">
+        <value>Contact</value>
+    </data>
+    <data name="MyJob">
+        <value>My job</value>
+    </data>
+    <data name="Home">
+        <value>Home</value>
+    </data>
+    <data name="Introduce">
+        <value>Introduce</value>
+    </data>
+    <data name="CreateProduct">
+        <value>Thêm sản phẩm</value>
+    </data>
+    <data name="ProductManage">
+        <value>Quản lý sản phẩm</value>
+    </data>
+    <data name="DetailProduct">
+        <value>Chi tiết sản phẩm</value>
+    </data>
+    <data name="EditProduct">
+        <value>Cập nhật sản phẩm</value>
+    </data>
+    <data name="EditAuctionSession">
+        <value>Cập nhật Phiên đấu giá</value>
+    </data>
+</root>

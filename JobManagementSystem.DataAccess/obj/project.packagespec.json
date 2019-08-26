@@ -1,0 +1,63 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.DataAccess/JobManagementSystem.DataAccess.csproj",
+    "projectName": "JobManagementSystem.DataAccess",
+    "projectPath": "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.DataAccess/JobManagementSystem.DataAccess.csproj",
+    "outputPath": "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.DataAccess/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/JobManagementSystem.Common.csproj": {
+            "projectPath": "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/JobManagementSystem.Common.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.AspNetCore.App": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[2.2.6, )"
+        },
+        "Microsoft.EntityFrameworkCore.Relational": {
+          "target": "Package",
+          "version": "[2.2.6, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Serilog": {
+          "target": "Package",
+          "version": "[2.8.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

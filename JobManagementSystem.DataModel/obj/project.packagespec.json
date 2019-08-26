@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.DataModel/JobManagementSystem.DataModel.csproj",
+    "projectName": "JobManagementSystem.DataModel",
+    "projectPath": "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.DataModel/JobManagementSystem.DataModel.csproj",
+    "outputPath": "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.DataModel/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.DataAccess/JobManagementSystem.DataAccess.csproj": {
+            "projectPath": "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.DataAccess/JobManagementSystem.DataAccess.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+          "target": "Package",
+          "version": "[7.0.0, )"
+        },
+        "FluentValidation.AspNetCore": {
+          "target": "Package",
+          "version": "[8.4.0, )"
+        },
+        "Microsoft.AspNetCore.Http": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

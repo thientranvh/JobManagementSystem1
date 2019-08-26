@@ -1,0 +1,74 @@
+﻿@*@model JobManagementSystem.DataModel.Models.CategoryModels.CategoryViewModel
+
+@{
+    ViewBag.Title = "title";
+}
+<html>
+<head>
+    <title>@CategoryResource.TitleCategoryCreate</title>
+</head>
+<body>
+
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item">
+                        <a asp-area="Admin" asp-controller="Home" asp-action="Index"> @CategoryResources.HomeAdmin</a>
+                    </li>
+                    <li class="breadcrumb-item">
+                        <a asp-area="Admin" asp-controller="Category" asp-action="Index"> @CategoryResources.UrlCategory</a>
+                    </li>
+                    <li class="breadcrumb-item active">@CategoryResources.UrlCreate</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+    <!-- /.container-fluid -->
+</section>
+<div class="card ">
+    <div class="card-header">
+        <h3 class="card-title">@CategoryResources.TitleCreate</h3>
+    </div>
+    <!-- /.card-header -->
+    <div class="card-body">
+        <div class="ui-admin-width40">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <form asp-action="Create" method="post">
+
+                <div class="form-group row">
+                    <label class="col-md-3 col-form-label">@CategoryResources.CategoryName :</label>
+                    <div class="col-md-8">
+                        <input asp-for="Name" class="form-control" placeholder="@CategoryResources.placeholderNameCategory">
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                </div>
+                <br/>
+                <div class="row">
+                    <div class="col-md-3"></div>
+                    <div class="col-md-8">
+                        <button type="submit" class="btn btn-primary">@CategoryResources.BtnCreate</button>
+                    </div>
+                </div>
+            </form>
+            <br/>
+
+        </div>
+    </div>
+    <!-- /.card-body -->
+    <div class="card-footer ">
+    </div>
+</div>
+<!-- /.card -->
+
+@section scripts
+{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
+
+</body>
+</html>*@

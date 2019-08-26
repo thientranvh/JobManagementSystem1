@@ -1,0 +1,104 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/JobManagementSystem.Web.csproj",
+    "projectName": "JobManagementSystem.Web",
+    "projectPath": "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/JobManagementSystem.Web.csproj",
+    "outputPath": "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/JobManagementSystem.Common.csproj": {
+            "projectPath": "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/JobManagementSystem.Common.csproj"
+          },
+          "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.DataAccess/JobManagementSystem.DataAccess.csproj": {
+            "projectPath": "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.DataAccess/JobManagementSystem.DataAccess.csproj"
+          },
+          "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Service/JobManagementSystem.Service.csproj": {
+            "projectPath": "/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Service/JobManagementSystem.Service.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+          "target": "Package",
+          "version": "[7.0.0, )"
+        },
+        "FluentValidation.AspNetCore": {
+          "target": "Package",
+          "version": "[8.4.0, )"
+        },
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Http": {
+          "target": "Package",
+          "version": "[2.2.2, )"
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[2.2.6, )"
+        },
+        "Microsoft.EntityFrameworkCore.Relational": {
+          "target": "Package",
+          "version": "[2.2.6, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+          "target": "Package",
+          "version": "[2.2.3, )"
+        },
+        "Serilog": {
+          "target": "Package",
+          "version": "[2.8.0, )"
+        },
+        "Serilog.Sinks.ColoredConsole": {
+          "target": "Package",
+          "version": "[3.0.1, )"
+        },
+        "Serilog.Sinks.File": {
+          "target": "Package",
+          "version": "[4.0.0, )"
+        },
+        "X.PagedList.Mvc.Core": {
+          "target": "Package",
+          "version": "[7.6.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -1,0 +1,75 @@
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Web.deps.json
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Web.runtimeconfig.json
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Web.runtimeconfig.dev.json
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Web.dll
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Web.pdb
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Web.Views.dll
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Web.Views.pdb
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Common.dll
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.DataAccess.dll
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Common.pdb
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.DataAccess.pdb
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.csprojAssemblyReference.cache
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.csproj.CoreCompileInputs.cache
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.RazorAssemblyInfo.cache
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.RazorAssemblyInfo.cs
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.AssemblyInfoInputs.cache
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.AssemblyInfo.cs
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.TagHelpers.input.cache
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.TagHelpers.output.cache
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.RazorCoreGenerate.cache
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ClientLayout.g.cshtml.cs
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.RazorTargetAssemblyInfo.cache
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.RazorTargetAssemblyInfo.cs
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.Views.pdb
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.csproj.CopyComplete
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.dll
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.pdb
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/Razor/Areas/Admin/Views/Home/Index.g.cshtml.cs
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.DataModel.dll
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Service.dll
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Service.pdb
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.DataModel.pdb
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/Razor/Areas/Admin/Views/Shared/_AdminLayout.g.cshtml.cs
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.csprojAssemblyReference.cache
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.csproj.CoreCompileInputs.cache
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.RazorAssemblyInfo.cache
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.RazorAssemblyInfo.cs
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.AssemblyInfoInputs.cache
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.AssemblyInfo.cs
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.TagHelpers.input.cache
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.TagHelpers.output.cache
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.RazorCoreGenerate.cache
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/Razor/Areas/Admin/Views/Home/Index.g.cshtml.cs
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/Razor/Areas/Admin/Views/Shared/_AdminLayout.g.cshtml.cs
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/Razor/Views/Account/Authentication.g.cshtml.cs
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/Razor/Views/Account/Register.g.cshtml.cs
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/Razor/Views/Home/Introduce.g.cshtml.cs
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ClientLayout.g.cshtml.cs
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.RazorTargetAssemblyInfo.cache
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.RazorTargetAssemblyInfo.cs
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.dll
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.pdb
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Web.deps.json
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Web.runtimeconfig.json
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Web.runtimeconfig.dev.json
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Web.dll
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Web.pdb
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Web.Views.dll
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Web.Views.pdb
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Common.dll
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.DataAccess.dll
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.DataModel.dll
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Service.dll
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Common.pdb
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.DataAccess.pdb
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.Service.pdb
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/bin/Debug/netcoreapp2.2/JobManagementSystem.DataModel.pdb
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.Views.pdb
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Web/obj/Debug/netcoreapp2.2/JobManagementSystem.Web.csproj.CopyComplete

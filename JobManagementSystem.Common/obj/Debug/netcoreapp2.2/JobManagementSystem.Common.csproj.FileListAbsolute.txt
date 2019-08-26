@@ -1,0 +1,33 @@
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Common/bin/Debug/netcoreapp2.2/JobManagementSystem.Common.deps.json
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Common/bin/Debug/netcoreapp2.2/JobManagementSystem.Common.runtimeconfig.json
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Common/bin/Debug/netcoreapp2.2/JobManagementSystem.Common.runtimeconfig.dev.json
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Common/bin/Debug/netcoreapp2.2/JobManagementSystem.Common.dll
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Common/bin/Debug/netcoreapp2.2/JobManagementSystem.Common.pdb
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.csprojAssemblyReference.cache
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.Resources.AccountResource.resources
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.Resources.CategoryResource.resources
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.Resources.UserResource.resources
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.csproj.GenerateResource.cache
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.csproj.CoreCompileInputs.cache
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.AssemblyInfoInputs.cache
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.AssemblyInfo.cs
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.dll
+E:/Asp.net Core/Projects/Demo/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.pdb
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/bin/Debug/netcoreapp2.2/JobManagementSystem.Common.deps.json
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/bin/Debug/netcoreapp2.2/JobManagementSystem.Common.runtimeconfig.json
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/bin/Debug/netcoreapp2.2/JobManagementSystem.Common.runtimeconfig.dev.json
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/bin/Debug/netcoreapp2.2/JobManagementSystem.Common.dll
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/bin/Debug/netcoreapp2.2/JobManagementSystem.Common.pdb
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.csprojAssemblyReference.cache
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.Resources.AccountResource.resources
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.Resources.CategoryResource.resources
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.Resources.UserResource.resources
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.csproj.GenerateResource.cache
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.csproj.CoreCompileInputs.cache
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.AssemblyInfoInputs.cache
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.AssemblyInfo.cs
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.dll
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.pdb
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.Resources.CommonResource.resources
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.Resources.MessageResource.resources
+/home/local/3SI/chinh.nv/Documents/zzz/JobManagementSystem/JobManagementSystem.Common/obj/Debug/netcoreapp2.2/JobManagementSystem.Common.Resources.TitleResource.resources
